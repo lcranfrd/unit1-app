@@ -18,11 +18,13 @@ const Quotes = [
   {
     quote: 'Time is a drug. Too much of it kills you.',
     source: 'Terry Prachett',
-    citation: 'Small Gods'
+    citation: 'Small Gods',
+    year: 1992
   },
   {
     quote: 'I\'m sure the universe is full of intelligent life. It\'s just been too intelligent to come here.',
-    source: 'Arthur C. Clarke'
+    source: 'Arthur C. Clarke',
+    tags: 'extraterrestrials'
   },
   {
     quote: 'An expert is a person who has made all the mistakes that can be made in a very narrow field.',
@@ -31,7 +33,8 @@ const Quotes = [
   {
     quote: 'Science and religion are not at odds. Science is simply too young to understand.',
     source:'Dan Brown',
-    citation: 'Angels & Demons'
+    citation: 'Angels & Demons',
+    year: 2000
   },
   {
     quote: 'That which can be asserted without evidence, can be dismissed without evidence',
@@ -57,7 +60,8 @@ const Quotes = [
   {
     quote: 'Space is big. You just won\'t believe how vastly, hugely, mind-bogglingly big it is. I mean, you may think it\'s a long way down the road to the chemist\'s, but that\'s just peanuts to space.',
     source:'Douglas Adams',
-    citation: 'TheHitchhiker\'s Guide to the Galaxy'
+    citation: 'The Hitchhiker\'s Guide to the Galaxy',
+    year: 1978
   },
   {
     quote: 'In God we trust, all others bring data',

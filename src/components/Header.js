@@ -1,6 +1,7 @@
 import React from 'react';
 
 const Header = ({getNewQuote}) => {
+  // console.dir(Container)
   return (
     <header>
       <h1>Random Quotes</h1>
